@@ -1,14 +1,14 @@
-## Hi there 👋, I'm Cristian
+## ¡Hola 👋, soy Cristian!
 
-### 🌱 About Me
-- 🔭 I’m currently working on **personal and learning projects**.  
-- 🌱 I’m currently learning **Django, Android development, and full-stack web development**.  
-- 👯 I’m looking to collaborate on **open-source projects or mobile apps**.  
-- 🤔 I’m looking for help with **improving my coding skills and building clean, maintainable apps**.  
-- 💬 Ask me about **Python, Android Studio, web development, or databases**.  
-- ⚡ Fun fact: I love **solving challenges and learning new technologies**.
+### 🌱 Sobre mí
+- 🔭 Actualmente estoy trabajando en **proyectos personales y de aprendizaje**.  
+- 🌱 Actualmente estoy aprendiendo **Django, desarrollo Android y desarrollo web full-stack**.  
+- 👯 Busco colaborar en **proyectos de código abierto o aplicaciones móviles**.  
+- 🤔 Busco ayuda para **mejorar mis habilidades de programación y crear aplicaciones limpias y mantenibles**.  
+- 💬 Pregúntame sobre **Python, Android Studio, desarrollo web o bases de datos**.  
+- ⚡ Dato curioso: Me encanta **resolver desafíos y aprender nuevas tecnologías**.
 
-### 🛠️ Skills
+### 🛠️ Habilidades
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -17,13 +17,12 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📫 How to reach me
-- ✉️ Email: cristian@example.com  
-- 🌐 LinkedIn: [Cristian](https://www.linkedin.com/in/cristian)  
+### 📫 Cómo contactarme
+- ✉️ Email: cristianmunozmendez96@gmail.com  
+- 🌐 LinkedIn: [Cristian](https://www.linkedin.com/in/cristian-muñoz-mendez-11b6b0278)  
 - 🐙 GitHub: [cristian123-stack](https://github.com/cristian123-stack)
 
-### ⚡ Fun Projects
-- 📱 Android apps: small tools, utilities, or demos  
-- 🌐 Web apps: Django and front-end practice projects  
-- 🐍 Python scripts: automation and data handling  
-
+### ⚡ Proyectos divertidos
+- 📱 Aplicaciones Android: pequeñas herramientas, utilidades o demos  
+- 🌐 Aplicaciones web: proyectos de práctica en Django y front-end  
+- 🐍 Scripts en Python: automatización y manejo de datos  
